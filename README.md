@@ -1,5 +1,3 @@
-Overview of my github repositories.
-
 
 ## Image Processing
 
