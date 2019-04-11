@@ -1,4 +1,4 @@
-# This is an Overview of my github repositories.
+Overview of my github repositories.
 
 
 ## Image Processing
