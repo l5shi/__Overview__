@@ -1,5 +1,4 @@
 ![](https://img.shields.io/badge/欢迎-welcome_to_my_github-blue.svg)
-![](https://img.shields.io/badge/.-updating-blue.svg)
 
 ## Image Processing
 
