@@ -23,6 +23,6 @@ Overview of my github repositories.
 ## Reinforcement Learning
 1. [Deep Q Learning](https://github.com/l5shi/Reinforcement-Learning-Deep-Q-Learning)
 2. [Deep Deterministic Policy Gradient](https://github.com/l5shi/Reinforcement-Learning-DDPG)
-
+3. [Multi DDPG with Parameter Noise](https://github.com/l5shi/Multi-DDPG-with-parameter-noise)
 ## Robotics
 1. [SLAM](https://github.com/l5shi/Implement-SLAM-with-RGBD-measurements) 
