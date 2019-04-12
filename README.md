@@ -2,9 +2,9 @@
 
 ## Image Processing
 
-1. [Halide](https://github.com/l5shi/halide)
-2. [Halide 图文教程](https://github.com/l5shi/Halide_Tutorial)
 
+1. [Halide 图文教程](https://github.com/l5shi/Halide_Tutorial)
+1. [Halide Official](https://github.com/l5shi/halide)
 ## Deep Learning
 1. [AI Benchmark](https://github.com/l5shi/AI-Benchmark)
 2. [Introduce to ONNX](https://github.com/l5shi/ONNX_TUTORIAL)
