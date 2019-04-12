@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/感谢支持-Thanks_for_your_support-green.svg)
-[![](https://img.shields.io/badge/微信-s502509185-yellow.svg)](../donate/https://github.com/l5shi/__Overview__/blob/master/donate/WeChat%20Image_20190411173520.jpg?raw=true)
+[![](https://img.shields.io/badge/微信-s502509185-yellow.svg)](../donate/WeChat%20Image_20190411173520.jpg?raw=true)
 
 ![](../donate/alipay1.jpg?raw=true)  | ![](../donate/wechat1.jpg?raw=true) | ![](../donate/venmo1.jpg?raw=true) 
 :-------------------------:|:-------------------------: |:-------------------------:
