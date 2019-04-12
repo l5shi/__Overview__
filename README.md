@@ -1,5 +1,5 @@
 [![](https://img.shields.io/badge/欢迎-welcome_to_my_github-blue.svg)](www.github.com/l5shi)
-[![](https://img.shields.io/badge/支持-support-blue.svg)](https://github.com/l5shi/__Overview__/blob/master/thanks/README.md)
+[![](https://img.shields.io/badge/联系-contact-orange.svg)](https://github.com/l5shi/__Overview__/blob/master/thanks/README.md)
 
 ## Image Processing
 
