@@ -6,17 +6,17 @@
 1. [Halide 图文教程](https://github.com/l5shi/Halide_Tutorial)
 1. [Halide Official](https://github.com/l5shi/halide)
 ## Deep Learning
-1. [AI Benchmark](https://github.com/l5shi/AI-Benchmark)
+1. [AI Benchmark Detailed Analysis](https://github.com/l5shi/AI-Benchmark)
 2. [Introduce to ONNX](https://github.com/l5shi/ONNX_TUTORIAL)
 3. [Awesome Face Recognition](https://github.com/l5shi/awesome-Face_Recognition)
 4. [Awesome Senmantic Segmentation](https://github.com/l5shi/awesome-semantic-segmentation)
 
 ## Computer Vision
-1. [Human Detection](https://github.com/l5shi/Human-Detection-In-Depth-Image)
+1. [Human Detection with depth camera](https://github.com/l5shi/Human-Detection-In-Depth-Image)
 2. [3D Reconstruction](https://github.com/l5shi/3D-reconstruction-and-Rendering)
-3. [Object Detection](https://github.com/l5shi/Object-Detection-and-Color-Segmentation)
-4. [Image Inpainting](https://github.com/l5shi/Image-Inpainting-and-Classification)
-5. [Image Recognition MNIST](https://github.com/l5shi/Image-Recognition-on-MNIST-dataset)
+3. [Object Detection and Color Segmentation](https://github.com/l5shi/Object-Detection-and-Color-Segmentation)
+4. [Image Inpainting and Classifying](https://github.com/l5shi/Image-Inpainting-and-Classification)
+5. [Image Recognition on MNIST](https://github.com/l5shi/Image-Recognition-on-MNIST-dataset)
 
 ## Reinforcement Learning
 
@@ -25,4 +25,4 @@
 3. [Multi DDPG with Parameter Noise](https://github.com/l5shi/Multi-DDPG-with-parameter-noise)
 
 ## Robotics
-1. [SLAM](https://github.com/l5shi/Implement-SLAM-with-RGBD-measurements) 
+1. [SLAM-Partical Filter](https://github.com/l5shi/Implement-SLAM-with-RGBD-measurements) 
