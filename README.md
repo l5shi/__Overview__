@@ -4,6 +4,7 @@
 
 [![](https://forthebadge.com/images/badges/compatibility-betamax.svg)](https://forthebadge.com)
 [![](https://forthebadge.com/images/badges/Deep_Learning-cat-gifs.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-pythonlove.svg)](https://forthebadge.com)
 
 ## Deep Learning
 1. [AI Benchmark Detailed Analysis](https://github.com/l5shi/AI-Benchmark)
