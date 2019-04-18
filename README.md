@@ -56,7 +56,7 @@
    * Neural Network
    * K-Nearest-Neighbor
    * SVM
-   * Random Forest
+   * Spatial Pyramid Matching
    * Deep Belif Network
 
 ## Reference
