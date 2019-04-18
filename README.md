@@ -5,13 +5,14 @@
 ## Deep Learning
 1. [AI Benchmark Detailed Analysis](https://github.com/l5shi/AI-Benchmark)
 2. [Introduce to ONNX](https://github.com/l5shi/ONNX_TUTORIAL)
-3. [Octave Convolution](https://github.com/l5shi/Octave-Conv-Keras)
-4. [Image Inpainting and Classifying](https://github.com/l5shi/Image-Inpainting-and-Classification)
-5. [Image Recognition on MNIST](https://github.com/l5shi/Image-Recognition-on-MNIST-dataset)
-6. [Super Resolution]()
-7. [Feature Extraction]()
-8. [Classification]()
-9. [Segmentaion]()
+3. [Image Inpainting and Classifying](https://github.com/l5shi/Image-Inpainting-and-Classification)
+4. [Image Recognition on MNIST](https://github.com/l5shi/Image-Recognition-on-MNIST-dataset)
+5. [Super Resolution]()
+6. [Feature Extraction]()
+7. [Classification]()
+8. [Segmentaion]()
+9. [Octave Convolution](https://github.com/l5shi/Octave-Conv-Keras)
+
 
 
 ## Computer Vision
