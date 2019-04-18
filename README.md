@@ -54,4 +54,4 @@
 
 ## Reference
 1. [Awesome Face Recognition](https://github.com/l5shi/awesome-Face_Recognition)
-2. [Awesome Senmantic Segmentation](https://github.com/l5shi/awesome-semantic-segmentation)
+2. [Awesome Semantic Segmentation](https://github.com/l5shi/awesome-semantic-segmentation)
