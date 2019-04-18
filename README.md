@@ -8,7 +8,7 @@
 3. [Image Inpainting and Classifying](https://github.com/l5shi/Image-Inpainting-and-Classification)
 4. [Image Recognition on MNIST](https://github.com/l5shi/Image-Recognition-on-MNIST-dataset)
 5. [Super Resolution]()
-   * [SRCNN] (Uploading)
+   * SRCNN (Uploading)
    * SRGAN (Uploading)
    * ESPCN (Uploading)
    * EDSR (Uploading)
