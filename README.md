@@ -8,13 +8,23 @@
 3. [Image Inpainting and Classifying](https://github.com/l5shi/Image-Inpainting-and-Classification)
 4. [Image Recognition on MNIST](https://github.com/l5shi/Image-Recognition-on-MNIST-dataset)
 5. [Super Resolution]()
-   * SRCNN
-   * SRGAN
-   * ESPCN
-   * EDSR
+   * SRCNN (Uploading)
+   * SRGAN (Uploading)
+   * ESPCN (Uploading)
+   * EDSR (Uploading)
 6. [Feature Extraction]()
-7. [Classification]()
+   * Mobilenet (Uploading)
+   * Resnet (Uploading)
+   * VGG (Uploading)
+7. [Object Detection]()
+   * SSD (Uploading)
+   * YOLO v1/v2/v3 (Uploading)
+   * Faster-RCNN (Uploading)
 8. [Segmentaion]()
+   * ICNet (Uploading)
+   * PSPNet (Uploading)
+   * Deeplabv3-plus (Uploading)
+   * Mask-RCNN (Uploading)
 9. [Octave Convolution](https://github.com/l5shi/Octave-Conv-Keras)
 
 
