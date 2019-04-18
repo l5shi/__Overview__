@@ -8,14 +8,19 @@
 1. [Halide 图文教程](https://github.com/l5shi/Halide_Tutorial)
 2. [Halide Official](https://github.com/l5shi/halide)
 3. [Camera Color Calibration](https://github.com/l5shi/CONVERT_RAW_TO_sRGB)
-4. [Optica flow Lucas Kanade]
+4. [Optica flow Lucas Kanade]()
 
 ## Deep Learning
 1. [AI Benchmark Detailed Analysis](https://github.com/l5shi/AI-Benchmark)
 2. [Introduce to ONNX](https://github.com/l5shi/ONNX_TUTORIAL)
 3. [Octave Convolution](https://github.com/l5shi/Octave-Conv-Keras)
-4. [Awesome Face Recognition](https://github.com/l5shi/awesome-Face_Recognition)
-5. [Awesome Senmantic Segmentation](https://github.com/l5shi/awesome-semantic-segmentation)
+4. [Image Inpainting and Classifying](https://github.com/l5shi/Image-Inpainting-and-Classification)
+5. [Image Recognition on MNIST](https://github.com/l5shi/Image-Recognition-on-MNIST-dataset)
+6. [Super Resolution]()
+7. [Feature Extraction]()
+8. [Classification]()
+9. [Segmentaion]()
+
 
 ## Computer Vision
 1. [Human Detection with depth camera](https://github.com/l5shi/Human-Detection-In-Depth-Image)
@@ -32,3 +37,7 @@
 
 ## Robotics
 1. [SLAM-Partical Filter](https://github.com/l5shi/Implement-SLAM-with-RGBD-measurements) 
+
+## Reference
+1. [Awesome Face Recognition](https://github.com/l5shi/awesome-Face_Recognition)
+2. [Awesome Senmantic Segmentation](https://github.com/l5shi/awesome-semantic-segmentation)
