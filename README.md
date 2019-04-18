@@ -52,6 +52,7 @@
 ## Robotics && Machine Learning
 1. [SLAM-Partical Filter](https://github.com/l5shi/Implement-SLAM-with-RGBD-measurements) 
 2. [Object segmentation by GMM and OpenCV](https://github.com/l5shi/Object-Detection-and-Color-Segmentation)
+3. [Recommender System on yelp Challenge](https://github.com/l5shi/ECE180Team4Project)
 3. [Image Recognition on MNIST](https://github.com/l5shi/Image-Recognition-on-MNIST-dataset)
    * Neural Network
    * K-Nearest-Neighbor
