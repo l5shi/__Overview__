@@ -49,9 +49,15 @@
 2. [Deep Deterministic Policy Gradient](https://github.com/l5shi/Reinforcement-Learning-DDPG)
 3. [Multi DDPG with Parameter Noise](https://github.com/l5shi/Multi-DDPG-with-parameter-noise)
 
-## Robotics
+## Robotics && Machine Learning
 1. [SLAM-Partical Filter](https://github.com/l5shi/Implement-SLAM-with-RGBD-measurements) 
 2. [Object segmentation by GMM and OpenCV](https://github.com/l5shi/Object-Detection-and-Color-Segmentation)
+3. [Image Recognition on MNIST](https://github.com/l5shi/Image-Recognition-on-MNIST-dataset)
+   * Neural Network
+   * K-Nearest-Neighbor
+   * SVM
+   * Random Forest
+   * Deep Belif Network
 
 ## Reference
 1. [Awesome Face Recognition](https://github.com/l5shi/awesome-Face_Recognition)
