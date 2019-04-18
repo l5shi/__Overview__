@@ -51,6 +51,7 @@
 
 ## Robotics
 1. [SLAM-Partical Filter](https://github.com/l5shi/Implement-SLAM-with-RGBD-measurements) 
+2. [Object segmentation by GMM and OpenCV](https://github.com/l5shi/Object-Detection-and-Color-Segmentation)
 
 ## Reference
 1. [Awesome Face Recognition](https://github.com/l5shi/awesome-Face_Recognition)
