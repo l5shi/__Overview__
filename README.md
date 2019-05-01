@@ -31,7 +31,7 @@
 ## Computer Vision
 1. [Human Detection with depth camera](https://github.com/l5shi/Human-Detection-In-Depth-Image)
 2. [3D Reconstruction](https://github.com/l5shi/3D-reconstruction-and-Rendering)
-3. [Stereo Matching | Alignment + Rectifying] (https://github.com/l5shi/Stereo-Matching)
+3. [Stereo Matching | Alignment + Rectifying](https://github.com/l5shi/Stereo-Matching)
 3. [Object Detection and Color Segmentation](https://github.com/l5shi/Object-Detection-and-Color-Segmentation)
 4. [Image Inpainting and Classifying](https://github.com/l5shi/Image-Inpainting-and-Classification)
 5. [Image Recognition on MNIST](https://github.com/l5shi/Image-Recognition-on-MNIST-dataset)
