@@ -41,7 +41,8 @@
 1. [Halide 图文教程](https://github.com/l5shi/Halide_Tutorial)
 2. [Halide Official](https://github.com/l5shi/halide)
 3. [Camera Color Calibration](https://github.com/l5shi/CONVERT_RAW_TO_sRGB)
-4. [Optica flow Lucas Kanade]()
+4. [Stereo Matching | Alignment + Rectifying](https://github.com/l5shi/Stereo-Matching)
+5. [Optica flow Lucas Kanade]()
 
 ## Reinforcement Learning
 
